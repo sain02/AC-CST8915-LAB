@@ -22,18 +22,7 @@ Each container has its own writable layer to allow changes to the filesystem wit
 Docker Compose simplifies managing multi-container applications by defining all services, networks, and volumes in a single YAML file. It enables easy startup, scaling, and consistent configuration of multiple containers with a single command, reducing complexity and manual setup.
 
 ---
-### Docker Files Links:
-docker-compose.yml
-[text](../../../Users/Owner/Downloads/docker-lab/docker-compose.yml)
 
-requirements.txt
-[text](../../../Users/Owner/Downloads/docker-lab/requirements.txt)
-
-app.py
-[text](../../../Users/Owner/Downloads/docker-lab/app.py)
-
-DockerFile
-[text](../../../Users/Owner/Downloads/docker-lab/Dockerfile)
 
 ---
 
