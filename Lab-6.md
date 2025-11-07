@@ -1,4 +1,4 @@
-# LAB-5
+# LAB-6
 
 ### Name- Saizal Saini <br> Student Number- 041168394
 ---
