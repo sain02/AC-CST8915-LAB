@@ -122,8 +122,8 @@ Furthermore, Azure-managed alternatives Cosmos DB and Service Bus offer producti
 ---
 ### updated aps-all-in-one.yaml
 
-[text](../aps-all-in-one.yaml)
 
+[text](../aps-all-in-one_.txt)
 ---
 
 ## THANKS
