@@ -124,6 +124,8 @@ Furthermore, Azure-managed alternatives Cosmos DB and Service Bus offer producti
 
 
 [text](../aps-all-in-one_.txt)
+ this link is not working..so i have added a link to my yaml file in submission folder.
+
 ---
 
 ## THANKS
